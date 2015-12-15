@@ -1,14 +1,14 @@
-#分享会：学习Markdown
+#分享：学习Markdown
 
 ---
 
-#让书写更加美好!
+#让书写更加美好
 
 ---
 
 ## Markdown是什么?
 
->Markdown是一种轻量级标记语言,它允许人们“使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML（或者HTML）“。这种语言吸收了很多在电子邮件中已有的唇纹本标记的特性。
+>Markdown是一种轻量级标记语言,它允许人们“使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML（或者HTML）“。这种语言吸收了很多在电子邮件中已有的纯文本标记的特性。
 >
 > ——维基百科
 
@@ -23,6 +23,8 @@
 </br>
 **Aaron Swartz**就是那位于去年（_2013年1月11日_）自杀,有着**开挂**一般人生经历的程序员。维基百科对他的[介绍](http://zh.wikipedia.org/wiki/%E4%BA%9A%E4%BC%A6%C2%B7%E6%96%AF%E6%B2%83%E8%8C%A8)是：**软件工程师、作家、政治组织者、互联网活动家、维基百科人**。
 
+![Aaron Swartz](https://raw.githubusercontent.com/hellworld/hellworld.github.io/master/Res/AaronSwartz.png)
+
 ---
 
 他有着足以让你跪拜的人生经历：    
@@ -31,13 +33,13 @@
 + **2005**年创建[Infogami](http://infogami.org/)，之后与[Reddit](http://www.reddit.com/)合并成为其合伙人。   
 + **2010**年创立求进会（Demand Progress），积极参与禁止网络盗版法案（SOPA）活动，最终该提案**居然**被撤回。   
 + **2011**年7月19日，因被控从MIT和JSTOR下载480万篇学术论文并以免费形式上传于网络被捕。     
-+ **2013**年1月自杀身亡。   
++ **2013**年1月自杀身亡。
 
----
 
-![Aaron Swartz](https://github.com/younghz/Markdown/raw/master/Res/Aaron_Swartz.jpg)
 
 天才都有早逝的归途（又是一位**犹太人**）。
+
+纪念斯沃茨[Remeber Aron Swartz](http://)这个网站就是用纯Markdown写的，听着伤心，闻者流泪。
 
 ---
 
