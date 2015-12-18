@@ -1,8 +1,8 @@
-#分享：学习Markdown
+#2015.11.25分享会
 
 ---
 
-#让书写更加美好
+#学习Markdown
 
 ---
 
@@ -30,7 +30,8 @@
 ---
 
 他有着足以让你跪拜的人生经历：
-</br></br>    
+</br>  
+
 - **14岁**参与RSS 1.0规格标准的制订。     
 - **2004**年入读**斯坦福**，之后退学。   
 - **2005**年创建[Infogami](http://infogami.org/)，之后与[Reddit](http://www.reddit.com/)合并成为其合伙人。   
@@ -46,25 +47,55 @@
 
 ---
 
-##为什么要使用Markdown？
+#为什么要使用Markdown？
+
+---
 
 - 简单，容易上手（易读、易写、易更改）
 - 纯文本实现，容易扩展，方便和其他工具联通
 - 平台支持广：以Github为首的各种平台，各种博客都支持，基本上现在面向程序员的输入框都可以用Markdown来写了
 - 丰富的工具链
   - 编辑器：各种支持所见即所得的编辑器
-  - 和各种其他格式互相转换的工具：PDF、Mobi、Equb、HTML等等，几乎你能想象到的格式它都能转
+  - 和各种其他格式互相转换的工具：PDF、Mobi、Equb、HTML等等
 
 ---
 
-##基本Markdown语法
-1. 标题
-2. 列表
-3. 引用
-4. 粗体和斜体
-5. 链接与图片
-6. 代码
-7. 分割线
+#基本Markdown语法
+
+---
+#标题
+
+---
+
+#列表
+
+---
+
+#引用
+
+---
+
+#相关链接
+
+Github地址:
+https://github.com/hellworld/hellworld.github.io
+
+---
+
+#分享几个网站：
+
+MindStore.io:一个发现、分享、探讨新酷产品的社区，帮助你找到最好的产品和想法。
+### http://mindstore.io
+### 微信公众号: mindstore
+</br>
+Next:一个快速发现、分享和讨论新产品的社区
+### http://next.36kr.com
+### 微信公众号: findgreatproduct
+</br>
+Appsolution:专注于推荐新酷精华应用
+### http://app.so
+### 微信公众号: appsolution
+专注于推荐新酷精华应用
 
 ---
 
