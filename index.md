@@ -1,8 +1,8 @@
-#2015.11.25分享会
+# 2015.11.25分享会
 
 ---
 
-#学习Markdown
+# 学习Markdown
 
 ---
 
@@ -19,7 +19,7 @@
 > ——百度百科
 ---
 
-##谁发明了Markdown?
+## 谁发明了Markdown?
 </br>
 它由**Aaron Swartz**和**John Gruber**共同设计.
 </br>
@@ -60,22 +60,43 @@
 
 ---
 
-#基本Markdown语法
+## Markdown编辑器:
+* Windows 平台
+    * [MarkdownPad](http://markdownpad.com/)
+    * [MarkPad](http://code52.org/DownmarkerWPF/)
+* Linux 平台
+    * [ReText](http://sourceforge.net/p/retext/home/ReText/)
+* Mac 平台
+    * ***[Mou](http://mouapp.com/)***
+* 在线编辑器
+    * [Markable.in](http://markable.in/)
+    * [Dillinger.io](http://dillinger.io/)
+    * [Cmd Markdown](https://www.zybuluo.com/mdeditor)
 
 ---
-#标题
+## 推荐使用
+
+[Atom](https://atom.io/)
+一款由Github打造的先进的开源跨平台编辑器
+
+
+---
+# 基本Markdown语法
+
+---
+# 标题
 
 ---
 
-#列表
+# 列表
 
 ---
 
-#引用
+# 引用
 
 ---
 
-#相关链接
+# 相关链接
 
 Github地址:
 https://github.com/hellworld/hellworld.github.io
@@ -84,18 +105,14 @@ https://github.com/hellworld/hellworld.github.io
 
 #分享几个网站：
 
-MindStore.io:一个发现、分享、探讨新酷产品的社区，帮助你找到最好的产品和想法。
-### http://mindstore.io
+[MindStore.io](http://mindstore.io):一个发现、分享、探讨新酷产品的社区，帮助你找到最好的产品和想法。
 ### 微信公众号: mindstore
 </br>
-Next:一个快速发现、分享和讨论新产品的社区
-### http://next.36kr.com
+[Next](http://next.36kr.com):一个快速发现、分享和讨论新产品的社区
 ### 微信公众号: findgreatproduct
 </br>
-Appsolution:专注于推荐新酷精华应用
-### http://app.so
+[Appsolution](http://app.so):专注于推荐新酷精华应用
 ### 微信公众号: appsolution
-专注于推荐新酷精华应用
 
 ---
 
