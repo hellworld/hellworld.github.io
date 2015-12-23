@@ -71,16 +71,20 @@
 * 在线编辑器
     * [Markable.in](http://markable.in/)
     * [Dillinger.io](http://dillinger.io/)
-    * [Cmd Markdown](https://www.zybuluo.com/mdeditor)
+    * [CmdMarkdown](https://www.zybuluo.com/mdeditor/)
 
 ---
-## 推荐使用
-
-[Atom](https://atom.io/)
+## 推荐Markdown编辑器：
+[Atom](https://atom.io/):
 一款由Github打造的先进的开源跨平台编辑器
+<br\>
+<br\>
 
+
+![AtomScreenShot](https://raw.githubusercontent.com/hellworld/hellworld.github.io/master/Res/atom_screenshot.png)
 
 ---
+
 # 基本Markdown语法
 
 ---
