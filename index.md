@@ -6,31 +6,32 @@
 
 ---
 
-## Markdown是什么?
+# Markdown是什么?
 
 >Markdown是一种轻量级标记语言,它允许人们“使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML（或者HTML）“。这种语言吸收了很多在电子邮件中已有的纯文本标记的特性。
 >
 > ——维基百科
 
-</br>
+<br/><br/><br/>
 
 >Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。
 >
 > ——百度百科
+
 ---
 
 ## 谁发明了Markdown?
-</br>
+<br>
 它由**Aaron Swartz**和**John Gruber**共同设计.
-</br>
+<br>
 **Aaron Swartz**就是那位于前年（_2013年1月11日_）自杀,有着**开挂**一般人生经历的程序员。维基百科对他的[介绍](http://zh.wikipedia.org/wiki/%E4%BA%9A%E4%BC%A6%C2%B7%E6%96%AF%E6%B2%83%E8%8C%A8)是：**软件工程师、作家、政治组织者、互联网活动家、维基百科人**。
-</br></br></br></br>
+<br/><br/><br/><br/>
 ![Aaron Swartz](https://raw.githubusercontent.com/hellworld/hellworld.github.io/master/Res/AaronSwartz.png)
 
 ---
 
 他有着足以让你跪拜的人生经历：
-</br>  
+<br>  
 
 - **14岁**参与RSS 1.0规格标准的制订。     
 - **2004**年入读**斯坦福**，之后退学。   
@@ -53,7 +54,7 @@
 
 - 简单，容易上手（易读、易写、易更改）
 - 纯文本实现，容易扩展，方便和其他工具联通
-- 平台支持广：以Github为首的各种平台，各种博客都支持，基本上现在面向程序员的输入框都可以用Markdown来写了
+- 平台支持广：以**Github**为首的各种平台，各种博客都支持，基本上现在面向程序员的输入框都可以用Markdown来写了
 - 丰富的工具链
   - 编辑器：各种支持所见即所得的编辑器
   - 和各种其他格式互相转换的工具：PDF、Mobi、Equb、HTML等等
@@ -67,36 +68,99 @@
 * Linux 平台
     * [ReText](http://sourceforge.net/p/retext/home/ReText/)
 * Mac 平台
-    * ***[Mou](http://mouapp.com/)***
+    * [Mou](http://mouapp.com/)
 * 在线编辑器
     * [Markable.in](http://markable.in/)
     * [Dillinger.io](http://dillinger.io/)
-    * [CmdMarkdown](https://www.zybuluo.com/mdeditor/)
+    * [Cmd Markdown](https://www.zybuluo.com/mdeditor)
+
+ ---
+
+# 推荐使用
+
+***[Atom](https://atom.io/)***
+一款由**Github**打造的先进的开源跨平台编辑器
+<br/><br/><br/><br/>
+![AtomScreenshot](https://raw.githubusercontent.com/hellworld/hellworld.github.io/master/Res/atom_screenshot.png)
 
 ---
-## 推荐Markdown编辑器：
-[Atom](https://atom.io/):
-一款由Github打造的先进的开源跨平台编辑器
-<br\>
-<br\>
 
-
-![AtomScreenShot](https://raw.githubusercontent.com/hellworld/hellworld.github.io/master/Res/atom_screenshot.png)
-
----
-
-# 基本Markdown语法
+# Markdown语法
 
 ---
 # 标题
+# 一级标题:
+\# 一级标题
+## 二级标题:
+\## 二级标题
+### 三级标题:
+\### 三级标题
+#### 四级标题:  
+\#### 四级标题
+##### 五级标题:  
+\##### 五级标题
+###### 六级标题:  
+\###### 六级标题
 
 ---
 
-# 列表
+# 列表  
+
+* 无序列表：
+在文字前面加上`#`或者`*`  <br />  
+\* 1  
+\* 2  
+\* 3  <br /><br />
+\# 1  
+\# 2  
+\# 3
+
+
+* 有序列表：  
+在文字前加`1.` `2.` `3.`  <br />   
+1\. 1  
+2\. 2  
+3\. 3  
 
 ---
 
-# 引用
+* 引用
+如果你需要引用一小段别处的句子，那么就要用引用的格式，只需要在文本前面加上`>`
+
+<br />
+>例如这样
+
+<br />
+嵌套使用：
+<br />
+
+>数据结构
+>>数
+>>>二叉树
+
+---
+
+# 粗体和斜体
+* 用两个*或两个_包含一段文本就是粗体的语法  <br /><br />
+\*\*我是粗体\*\*  
+\_\_我也是粗体\_\_  <br /><br />
+**我是粗体**  
+__我也是粗体__  <br /><br />
+* 用一个*或一个_包含一段文本就是斜体的语法  <br /><br /> 
+\*我是斜体\*  
+\_我也是斜体\_  <br /><br />
+*我是斜体*   
+_我也是斜体_
+
+---
+
+
+---
+
+# 图片与链接
+
+---
+
 
 ---
 
@@ -111,10 +175,10 @@ https://github.com/hellworld/hellworld.github.io
 
 [MindStore.io](http://mindstore.io):一个发现、分享、探讨新酷产品的社区，帮助你找到最好的产品和想法。
 ### 微信公众号: mindstore
-</br>
+<br/>
 [Next](http://next.36kr.com):一个快速发现、分享和讨论新产品的社区
 ### 微信公众号: findgreatproduct
-</br>
+<br/>
 [Appsolution](http://app.so):专注于推荐新酷精华应用
 ### 微信公众号: appsolution
 
