@@ -7,12 +7,12 @@
 ---
 
 # 思维导图
-![思维导图](https://raw.githubusercontent.com/hellworld/hellworld.github.io/master/Res/mymind.png)
+![思维导图](https://raw.githubusercontent.com/hellworld/hellworld.github.io/master/Res/mind.jpg)
 
 ---
 
 # Markdown是什么
-
+<br /><br />
 >Markdown是一种轻量级标记语言,它允许人们“使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML（或者HTML）“。这种语言吸收了很多在电子邮件中已有的纯文本标记的特性。
 >
 > ——维基百科
@@ -26,9 +26,8 @@
 ---
 
 ## 谁发明了Markdown
-<br/>
 它由**Aaron Swartz**和**John Gruber**共同设计.
-<br/>
+<br /><br /><br />
 **John Gruber**是苹果社群著名的**blogger、作家、UI设计师、软件工程师**,持续观察和发表苹果公司相关资讯和观点长达十余年。  
 <br />
 
@@ -66,11 +65,13 @@
 
 * 纯文本实现，容易扩展，方便和其他工具联通
 
-* 平台支持广：以**Github**为首的各种平台，各种博客都支持，基本上现在面向程序员的输入框都可以用Markdown来写了
+* 平台支持广：以**Github、Stack Overflow**为首的各种平台，各种博客都支持，现在也越来越的网站也支持，国内的有**博客园、简书、为知笔记等等**。
 
 * 丰富的工具链
     * 编辑器：各种支持所见即所得的编辑器
     * 和各种其他格式互相转换的工具：PDF、Mobi、Equb、HTML等等
+
+* 摆脱**word**(我不是认真的)
 
 ---
 
@@ -91,22 +92,27 @@
  ---
 
 # 推荐使用编辑器
+* [Sublime Text 2](http://www.sublimetext.com/2) + [MarkdownEditing](http://ttscoff.github.io/MarkdownEditing/) / [教程](http://lucifr.com/2012/07/12/markdownediting-for-sublime-text-2/)
 
-***[Atom](https://atom.io/)***
+
+* ***[Atom](https://atom.io/)***
 一款由**Github**打造的先进的开源跨平台编辑器
-<br/><br/><br/><br/>
+<br/><br/>
 ![AtomScreenshot](https://raw.githubusercontent.com/hellworld/hellworld.github.io/master/Res/atom_screenshot.png)
 
 ---
 
 # 转换工具
 
-- 制作文档
+- 制作文档  
+    - [readthedocs](https://readthedocs.org/)，使用最广的文档服务，如[Scrapy 文档](https://scrapy-chs.readthedocs.org/zh_CN/0.24/index.html)，支持Restructed和Markdown语言，其Markdown支持通过mkdocs来实现；
     - [mkdocs](http://www.mkdocs.org/)  
 - 制作电子书
-    - [gitbook](https://www.gitbook.com)，利用Markdown写电子书的工具，并提供免费托管。
+    - [gitbook](https://www.gitbook.com)，利用Markdown写电子书的工具，并提供免费托管。  
+    [gitbook使用入门](http://dockerpool.com/static/books/gitbook_cn/index.html)
 
 - 制作slides
+    - [reveal.js](https://github.com/hakimel/reveal.js), [Demo](http://lab.hakim.se/reveal-js/#/)
     - [landslide](https://github.com/adamzap/landslide), [Demo](http://adamzap.com/misc/presentation.html#slide1)
 
 ---
@@ -115,13 +121,14 @@
 
 ---
 # 标题
+<br />
 \# 一级标题  
 \## 二级标题  
 \### 三级标题  
 \#### 四级标题  
 \##### 五级标题   
 \###### 六级标题  
-<br /><br />
+<br /><br /><br />
 
 # 一级标题:
 ## 二级标题:
@@ -186,48 +193,57 @@ Markdown的**空格**与**空行**直接使用Html标签和转义符来实现
 \*\*我是粗体\*\*  
 \_\_我也是粗体\_\_  <br /><br />
 **我是粗体**  
-__我也是粗体__  <br /><br />
+__我也是粗体__  <br /><br /><br /><br />
 * 用一个*或一个_包含一段文本就是斜体的语法  <br /><br />
 \*我是斜体\*  
 \_我也是斜体\_  <br /><br />
-*我是斜体*
+
+*我是斜体*   
 _我也是斜体_
 
 ---
 
 # 图片与链接
-插入链接与插入图片的语法很像，区别在于一个!号   
-图片为: ![]\(ImageUrl\)    
+插入链接与插入图片的语法很像，区别在于一个!号   <br /><br />
+图片为: ![]\(ImageUrl\)  <br /><br />    
 链接为: []\(\)
 <br /><br />
 插入图片的地址需要图床
+图床例子:  <br /><br />   https://ooo.0o0.ooo/2015/12/25/567cf3192b1c0.png
 
 
 ---
-# 代码块
+# 代码块和表格
 
+Markdown的代码块可使用\`\`\`包围或tab键  <br /><br /><br />
 
----
+Markdown的表格输入格式:
 
-#表格
+|Header One|Header Two|Header three|  
+|:----------|:--------|:-----------|  
+| Item One  |Item Two |Item Three  |
+<br /><br />
+有些编辑器不支持这种输入的表格,也可使用Html标签实现.
 
 ---
 
 
 # 相关及参考链接
 
-此PPT链接:
+* 此PPT链接:
 http://yexiang.me
 
 
-我的**Github**地址:  
+* 我的**Github**地址:  
 https://github.com/hellworld/hellworld.github.io  
 
-
-Markdown入门——指南
+* Markdown入门——指南  
 http://www.jianshu.com/p/1e402922ee32/
 
-用Markdown写一个极客范儿的PPT
+* Markdown官方文档翻译  
+http://xdays.me/markdown官方文档.html
+
+* 用Markdown写一个极客范儿的PPT  
 http://www.jianshu.com/p/e063303317cb
 
 
