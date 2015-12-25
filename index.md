@@ -7,7 +7,8 @@
 ---
 
 # 思维导图
-![思维导图]()
+![思维导图](https://raw.githubusercontent.com/hellworld/hellworld.github.io/master/Res/mymind.png)
+
 ---
 
 # Markdown是什么
